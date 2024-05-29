@@ -1,2 +1,5 @@
-"New Test File" 
-"Bug fix"
+
+"Version 1"
+"Version 2"
+"feature done"
+>>>>>>> feature1
